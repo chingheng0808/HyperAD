@@ -10,7 +10,7 @@ The data is sourced from the AVIRIS Data Portal.
 
 | Dataset                  | Link                                                                                                    | Size                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------- | -------------------- |
-| **_Training Dataset_**   | [[download link](https://drive.google.com/drive/folders/1T0QtU3ywRd2mjQrrWdcnFjths6stQEFh?usp=sharing)] | 18.8GB, 900 examples |
+| **_Training Dataset_**   | [[download link](https://drive.google.com/drive/folders/1T0QtU3ywRd2mjQrrWdcnFjths6stQEFh?usp=sharing)] | 18.8GB, 1000 examples|
 | **_Validation Dataset_** | [[download link](https://drive.google.com/drive/folders/12xX_vkvlnh0-nYLDyg458m8CoyhhLOXo?usp=sharing)] | 100 examples         |
 | **_Testing Dataset_**    | [[download link](https://drive.google.com/drive/folders/1GDfyftApOySTvFwRhEUohrPcb5fLwZVo?usp=sharing)] | 100 examples         |
 
