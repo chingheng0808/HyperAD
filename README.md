@@ -1,4 +1,4 @@
-# HyperAVIRIS
+# HyperAD
 
 ## An Remote Sensing Datasets from [AVIRIS Data Portal](https://aviris.jpl.nasa.gov/)
 
