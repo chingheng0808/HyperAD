@@ -2,7 +2,7 @@
 
 ## An Remote Sensing Datasets from [AVIRIS Data Portal](https://aviris.jpl.nasa.gov/)
 
-The data is sourced from the AVIRIS Data Portal. We collected the HSI data between 2008 and 2012, and the original HSI data was partitioned into 256 × 256 sub-images, resulting in 1,735 HSI sub-images. We then applied k-means clustering to categorize the HSI sub-images into five types: City, Mountain, Forest, Farm, and Other. Any misclassified sub-images were manually corrected. From each class, we selected 200 HSI sub-images, forming a dataset of 1,200 sub-images in total. The dataset was then split into training, validation, and testing sets, consisting of 1,000, 100, and 100 HSI sub-images, respectively. 
+The data is sourced from the [AVIRIS Data Portal](https://aviris.jpl.nasa.gov/dataportal/). We collected the HSI data between 2008 and 2012, and the original HSI data was partitioned into 256 × 256 sub-images, resulting in 1,735 HSI sub-images. We then applied k-means clustering to categorize the HSI sub-images into five types: City, Mountain, Forest, Farm, and Other. Any misclassified sub-images were manually corrected. From each class, we selected 200 HSI sub-images, forming a dataset of 1,200 sub-images in total. The dataset was then split into training, validation, and testing sets, consisting of 1,000, 100, and 100 HSI sub-images, respectively. 
 
 ## Download by `Google Drive`
 
